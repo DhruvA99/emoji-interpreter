@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.welcome-text {
+  color: rgb(47, 117, 140);
+}
+.button-counter {
+  margin: 10px;
+}
+.input-first {
+  margin: 2rem;
+  height: 30px;
+  width: 40%;
+  background-color: rgba(180, 180, 180, 0.455);
+  border: none;
+}
+.emoji-list {
+  display: inline-block;
+  margin: 5px;
+}
